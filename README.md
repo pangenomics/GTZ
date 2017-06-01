@@ -8,3 +8,5 @@ readme_figure1_4.txt: Results shown in Figure 1A,B,D
 readme_rarefaction.txt: Richness analysis shown in Fig1E
 
 readme_N_metabolism_plots.txt: produce subplots for Extended Data Figures 9 and 10
+
+1_mOTU_WGCNA_Network.R: WCGNA network analysis shown in Figure 3.
